@@ -1,2 +1,3 @@
 class store:
-    pass
+    def __init__(self):
+        print("hello World")
